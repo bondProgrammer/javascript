@@ -1,0 +1,50 @@
+body {
+    padding: 5px 5px 5px 5px;
+    font-family: 'Trade Winds', cursive;
+    letter-spacing: 1px;
+}
+
+div h1 {
+    text-align: center;
+    background: aquamarine;
+}
+
+.container-slider {
+    position: relative;
+    text-align: center;
+}
+
+.container-slider img {
+    width: 100%;
+    margin: auto;
+    height: 40%;
+}
+
+button:hover {
+    background-color: bisque;
+    color: black;
+}
+
+.previous {
+    position: absolute;
+    font-family: 'Trade Winds', cursive;
+    background-color: #f1f1f1;
+    top: 50%;
+    left: 10%;
+}
+
+.next {
+    position: absolute;
+    background-color: #4CAF50;
+    font-family: 'Trade Winds', cursive;
+    top: 50%;
+    right: 10%;
+}
+
+.round {
+    border-radius: 3px;
+}
+
+.subtitle::first-letter {
+    font-size: xx-large;
+}

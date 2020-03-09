@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+}
+table{
+    margin: auto;
+}
+table, td, th {
+    border: 1px solid black;
+    text-align: center;
+}
+tr{
+    height: 50px;
+}
+.notes{
+    width:13%
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    background-color: rgb(194, 140, 70);
+}
+.table-row{
+    align-content: center;
+}
+th{
+    width: 8.88%;
+    font-weight: 700;
+}
+td{
+    width: 8.88%;
+}
+tr{
+    margin: auto;
+}
